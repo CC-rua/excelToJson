@@ -1,0 +1,28 @@
+{
+  "header": {
+    "id": NaN,
+    "column_1": "一",
+    "column_2": "二",
+    "column_3": "三"
+  },
+  "data": [
+    {
+      "id": 1,
+      "column_1": 11,
+      "column_2": 12,
+      "column_3": 23
+    },
+    {
+      "id": 2,
+      "column_1": 21,
+      "column_2": 22,
+      "column_3": 43
+    },
+    {
+      "id": 3,
+      "column_1": 31,
+      "column_2": 32,
+      "column_3": null
+    }
+  ]
+}
